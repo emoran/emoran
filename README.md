@@ -1,4 +1,4 @@
-[![Header](https://yucelmoran.com/content/images/2021/02/yucelmoranLogo.png "Header")](https://yucelmoran.com/)
+[![Header](https://yucelmoran.com/content/images/2021/12/yucelmoranlogo_transparent-1.png "Header")](https://yucelmoran.com/)
 
 ![Edgar's GitHub stats](https://github-readme-stats.vercel.app/api?username=emoran&show_icons=true)
 
