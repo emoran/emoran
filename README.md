@@ -1,5 +1,6 @@
-[![Header](https://yucelmoran.com/content/images/2021/12/yucelmoranlogo_transparent-1.png "Header")](https://yucelmoran.com/)
-* 🖥️  See my portfolio at [Personal Web Site](http://yucelmoran.com)
+[![Header](https://yucelmoran.com/content/images/2021/12/yucelmoranlogo_transparent-1.png "Header")](https://yucelmoran.com/) 
+
+Personal Web Site [Personal Web Site](http://yucelmoran.com)
 
 <table>
   <tr>
