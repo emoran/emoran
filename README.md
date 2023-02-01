@@ -1,4 +1,4 @@
-[![Header]([[https://yucelmoran.com/content/images/2021/12/yucelmoranlogo_transparent-1.png](https://miro.medium.com/max/180/1*oDxDxyc7qU1zIDUbjPh1VA.png)]([https://miro.medium.com/max/180/1*oDxDxyc7qU1zIDUbjPh1VA.png](https://miro.medium.com/max/180/1*oDxDxyc7qU1zIDUbjPh1VA.png)) "Header")](https://yucelmoran.com/) 
+[![Header]([[[https://yucelmoran.com/content/images/2021/12/yucelmoranlogo_transparent-1.png](https://miro.medium.com/max/180/1*oDxDxyc7qU1zIDUbjPh1VA.png)](https://miro.medium.com/max/180/1*oDxDxyc7qU1zIDUbjPh1VA.png)]([https://miro.medium.com/max/180/1*oDxDxyc7qU1zIDUbjPh1VA.png](https://miro.medium.com/max/180/1*oDxDxyc7qU1zIDUbjPh1VA.png)) "Header")](https://yucelmoran.com/) 
 
 Personal Web Site [Personal Web Site](http://yucelmoran.com)
 
