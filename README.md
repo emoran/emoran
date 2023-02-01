@@ -1,4 +1,3 @@
-[![Header]([[[https://yucelmoran.com/content/images/2021/12/yucelmoranlogo_transparent-1.png](https://miro.medium.com/max/180/1*oDxDxyc7qU1zIDUbjPh1VA.png)](https://miro.medium.com/max/180/1*oDxDxyc7qU1zIDUbjPh1VA.png)]([https://miro.medium.com/max/180/1*oDxDxyc7qU1zIDUbjPh1VA.png](https://miro.medium.com/max/180/1*oDxDxyc7qU1zIDUbjPh1VA.png)) "Header")](https://yucelmoran.com/) 
 
 Personal Web Site [Personal Web Site](http://yucelmoran.com)
 
@@ -12,10 +11,6 @@ Personal Web Site [Personal Web Site](http://yucelmoran.com)
     </td>
   </tr>
 </table>
-
-<a href="http://www.github.com/emoran"><img src="https://activity-graph.herokuapp.com/graph?username=emoran&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-
 
 <div width="100%" align="center"></div>
 
