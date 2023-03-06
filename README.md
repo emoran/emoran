@@ -1,7 +1,10 @@
 
 
 
-<p align="center"><img align="center" width="280" src="https://yucelmoran.dev/content/images/2023/03/logo.png"/> <br/> https://yucelmoran.dev </p>
+<p align="center"><img align="center" width="280" src="https://yucelmoran.dev/content/images/2023/03/logo.png"/> <br/>
+  
+  <center><a href="https://yucelmoran.dev" align="center" target="_blank"> Web Site </a> </center> 
+</p>
 
 <hr>
 
