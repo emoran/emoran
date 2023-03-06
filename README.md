@@ -1,10 +1,10 @@
 
-Personal Web Site [Personal Web Site](http://yucelmoran.com)
+
 
 <p align="center"><img align="center" width="280" src="https://yucelmoran.dev/content/images/2023/03/logo.png"/></p>
 
-
-
+<hr>
+Personal Web Site [Personal Web Site](http://yucelmoran.com)
 <table>
   <tr>
     <td>
@@ -15,8 +15,6 @@ Personal Web Site [Personal Web Site](http://yucelmoran.com)
     </td>
   </tr>
 </table>
-
-<div width="100%" align="center"></div>
 
 ### Support Me
 
