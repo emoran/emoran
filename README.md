@@ -61,11 +61,13 @@ Enables bi-directional synchronization between Salesforce and QuickBooks Desktop
 A connector demonstrating advanced SDK usage. Includes a comprehensive [implementation guide](https://yucelmoran.com/mule-4-unsplash-connector/).
 
 ---
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=emoran&show_icons=true&theme=minimal&hide_border=true&hide=contribs&count_private=true&hide_title=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emoran&layout=compact&theme=minimal&hide_border=true&hide_title=true" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=emoran&show_icons=true&theme=transparent&hide_border=true&hide_title=true" height="150" alt="GitHub Stats" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emoran&layout=compact&theme=transparent&hide_border=true" height="150" alt="Top Languages" />
 </div>
+
+<br/>
 
 <div align="center">
   <sub>Building the connected enterprise, one integration at a time.</sub>
