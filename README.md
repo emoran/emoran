@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Edgar Moran</h1>
-  <h3>Senior Software Engineer at Cisco Meraki | MuleSoft Ambassador</h3>
+  <h3>Senior Software Engineer at Cisco |  Meraki | MuleSoft Ambassador</h3>
   
   <a href="https://linkedin.com/in/yucelmoran">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
